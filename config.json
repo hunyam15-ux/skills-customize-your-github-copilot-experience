@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "testing-fastapi-apis",
+      "title": "Testing FastAPI APIs",
+      "description": "Write automated tests for FastAPI CRUD endpoints, validation, and error responses",
+      "path": "assignments/testing-fastapi-apis",
+      "dueDate": "2026-11-16",
+      "attachments": [
+        {
+          "name": "Book API",
+          "file": "main.py",
+          "type": "python"
+        },
+        {
+          "name": "Test Scaffold",
+          "file": "test_main.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
