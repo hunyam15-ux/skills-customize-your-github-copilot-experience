@@ -58,6 +58,20 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "building-rest-apis-with-fastapi",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Build a REST API with FastAPI using data models and CRUD endpoints",
+      "path": "assignments/building-rest-apis-with-fastapi",
+      "dueDate": "2026-11-16",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter_code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
